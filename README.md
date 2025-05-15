@@ -21,7 +21,7 @@ Esta é uma API RESTful desenvolvida em **Java 21** com **Spring Boot 3**, utili
   "nome": "Miguel",
   "email": "miguel@email.com"
 }
-
+```
 📋 Listar todos os usuários
 GET /usuarios
 
@@ -32,11 +32,12 @@ GET /usuarios/{id}
 PUT /usuarios/{id}
 
 JSON exemplo:
+```json
 {
   "nome": "Miguel Atualizado",
   "email": "miguel.novo@email.com"
 }
-
+```
 ❌ Deletar usuário
 DELETE /usuarios/{id}
 
