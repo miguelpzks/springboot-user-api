@@ -43,7 +43,7 @@ DELETE /usuarios/{id}
 
 💻 Como rodar o projeto localmente
 1. Clone o repositório:
-git clone https://github.com/SEU_USUARIO/springboot-user-api.git
+git clone https://github.com/miguelpzks/springboot-user-api.git
 
 2. Entre na pasta:
 cd springboot-user-api
