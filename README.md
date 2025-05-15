@@ -56,8 +56,6 @@ Acesse a API em: http://localhost:8080
 🔎 H2 Console (Banco de Dados em Memória)
 URL: http://localhost:8080/h2-console
 
-JDBC URL: jdbc:h2:mem:usuariosdb
-
 Usuário: sa
 
 Senha: (deixe em branco)
